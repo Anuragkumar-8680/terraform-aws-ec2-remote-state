@@ -50,8 +50,3 @@ State file is stored in S3 and locked using use_lockfile to prevent concurrent m
 | public_ip      | Public IP of EC2         |
 | private_ip     | Private IP of EC2        |
 | instance_state | Current state of EC2     |
-EOF
-
-git add README.md
-git commit -m "Add README"
-git push origin main
