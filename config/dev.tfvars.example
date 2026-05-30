@@ -1,0 +1,4 @@
+instance_type = "t3.micro"
+ami_id        = "<your-ami-id>"
+instance_name = "my_ec2_using_terraform"
+region        = "ap-south-1"

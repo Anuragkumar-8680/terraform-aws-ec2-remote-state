@@ -1,0 +1,5 @@
+bucket       = "<your-account-id>-terraform-states"
+key          = "development/ec2.tfstate"
+region       = "ap-south-1"
+use_lockfile = true
+encrypt      = true
