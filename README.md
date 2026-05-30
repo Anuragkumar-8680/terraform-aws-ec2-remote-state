@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Terraform AWS EC2 with Remote State
 
 Provisioning an AWS EC2 instance using Terraform with S3 remote backend and state locking.
